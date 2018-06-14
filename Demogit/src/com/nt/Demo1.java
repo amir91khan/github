@@ -6,7 +6,8 @@ public class Demo1 {
 System.out.println("hello");
 //change by viren 
 System.out.println("viren");
-
+ int i = 10;
+ System.out.println(i);
 	}
 
 }
